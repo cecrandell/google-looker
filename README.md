@@ -5,6 +5,7 @@ This repository is used to document my learnings from the [Udemy course](https:/
 **Sections Covered**
 
 - [00 - Introduction](/00%20-%20Introduction)
+- [01 - Environment](/01%20-%20Environment)
 
 **Developer**
 
